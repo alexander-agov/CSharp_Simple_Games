@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\bin\Debug\net8.0\RandomSentenceGenerator.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\bin\Debug\net8.0\RandomSentenceGenerator.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\bin\Debug\net8.0\RandomSentenceGenerator.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\bin\Debug\net8.0\RandomSentenceGenerator.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\bin\Debug\net8.0\RandomSentenceGenerator.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\obj\Debug\net8.0\RandomSentenceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\obj\Debug\net8.0\RandomSentenceGenerator.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\obj\Debug\net8.0\RandomSentenceGenerator.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\obj\Debug\net8.0\RandomSentenceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\obj\Debug\net8.0\RandomSentenceGenerator.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\obj\Debug\net8.0\refint\RandomSentenceGenerator.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\obj\Debug\net8.0\RandomSentenceGenerator.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\obj\Debug\net8.0\RandomSentenceGenerator.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GIT\GITProject\RandomSentenceGenerator\obj\Debug\net8.0\ref\RandomSentenceGenerator.dll
