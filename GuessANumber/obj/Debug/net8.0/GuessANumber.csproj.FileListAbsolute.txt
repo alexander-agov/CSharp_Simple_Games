@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\bin\Debug\net8.0\GuessANumber.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\bin\Debug\net8.0\GuessANumber.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\bin\Debug\net8.0\GuessANumber.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\bin\Debug\net8.0\GuessANumber.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\bin\Debug\net8.0\GuessANumber.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\obj\Debug\net8.0\GuessANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\obj\Debug\net8.0\GuessANumber.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\obj\Debug\net8.0\GuessANumber.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\obj\Debug\net8.0\GuessANumber.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\obj\Debug\net8.0\GuessANumber.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\obj\Debug\net8.0\refint\GuessANumber.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\obj\Debug\net8.0\GuessANumber.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\obj\Debug\net8.0\GuessANumber.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\GITProject\GuessANumber\obj\Debug\net8.0\ref\GuessANumber.dll
